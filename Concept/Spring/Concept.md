@@ -7,5 +7,11 @@
     - 하나의 객체가 다른 객체의 의존성을 제공하는 테크닉
     - 클라이언트가 어떤 서비스를 사용할 것인지 지정하는 대신에, 클라이언트에게 무슨 서비스를 사용할 지 말해주는 것.
       - [Wikipedia,KR](https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A1%B4%EC%84%B1_%EC%A3%BC%EC%9E%85)
-      
-- 
+
+- IoC: Inversion of Control
+  - Definition in Wikipedia(English)
+    - IoC inverts the flow of control as compared to traditional control flow.
+    - In traditional Programming, the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks, but with inversion of control, it is the framework that calls into the custom, or task-specific, code.
+  - 위키피디아 정의(한국어)
+    - 기 프로그래밍 흐름에서는 프로그래머가 작성한 프로그램 -> 외부 라이브러리 코드 호출, 제어 반전 구조에서는 외부 라이브러리 코드가 프로그래머가 작성한 코드를 호출
+
