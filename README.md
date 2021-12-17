@@ -18,6 +18,8 @@ review my work and personal experience for programming, operation, business, etc
 
 - Language
     - Java
-        - [정리 Category] (./)
+        - [정리 Category](./Language/Java/ReadMe.md)
     - Javascript
-        - [정리 Category] (./)
+        - [정리 Category](./)
+    - Kotlin
+        - [정리 Category](./Language/Kotlin/Readme.md)

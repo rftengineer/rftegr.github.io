@@ -1,0 +1,11 @@
+- DI: Dependency Injection
+  - Definition in Wikipedia(English)
+    - Dependency Injection is a technique in which an object receives other objects that it depends on, called dependencies.
+    - Instead of the client specifying which service it will use, the injector tells the client what service to use.
+      - [Wikipedia,EN](https://en.wikipedia.org/wiki/Dependency_injection)
+  - 위키피디아 정의(한국어)
+    - 하나의 객체가 다른 객체의 의존성을 제공하는 테크닉
+    - 클라이언트가 어떤 서비스를 사용할 것인지 지정하는 대신에, 클라이언트에게 무슨 서비스를 사용할 지 말해주는 것.
+      - [Wikipedia,KR](https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A1%B4%EC%84%B1_%EC%A3%BC%EC%9E%85)
+      
+- 
