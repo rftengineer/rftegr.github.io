@@ -12,6 +12,7 @@
   - Definition in Wikipedia(English)
     - IoC inverts the flow of control as compared to traditional control flow.
     - In traditional Programming, the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks, but with inversion of control, it is the framework that calls into the custom, or task-specific, code.
+      - [Wikipedia,EN](https://en.wikipedia.org/wiki/Inversion_of_control)
   - 위키피디아 정의(한국어)
     - 기 프로그래밍 흐름에서는 프로그래머가 작성한 프로그램 -> 외부 라이브러리 코드 호출, 제어 반전 구조에서는 외부 라이브러리 코드가 프로그래머가 작성한 코드를 호출
-
+      - [Wikipedia,KR](https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%96%B4_%EB%B0%98%EC%A0%84)
