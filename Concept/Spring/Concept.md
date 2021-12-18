@@ -1,3 +1,5 @@
+# Spring 용어 정리
+
 - DI: Dependency Injection
   - Definition in Wikipedia(English)
     - Dependency Injection is a technique in which an object receives other objects that it depends on, called dependencies.
