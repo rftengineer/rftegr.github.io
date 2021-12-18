@@ -16,3 +16,11 @@
   - 위키피디아 정의(한국어)
     - 기 프로그래밍 흐름에서는 프로그래머가 작성한 프로그램 -> 외부 라이브러리 코드 호출, 제어 반전 구조에서는 외부 라이브러리 코드가 프로그래머가 작성한 코드를 호출
       - [Wikipedia,KR](https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%96%B4_%EB%B0%98%EC%A0%84)
+
+- AOP: Aspect Oriented Programming
+  - Definition in Wikipedia(English)
+    - AOP is a programming paradigm that aims to increase modularity by allowing the separation of cross-cutting concerns.
+    - [Wikipedia,EN](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+  - 위키피디아 정의(한국어)
+    - 횡단 관심사(cross-cutting concern)의 분리를 허용함으로써 모듈성을 증가시키는 것이 목적인 프로그래밍 패러다임
+    - [Wikipedia,KR](https://ko.wikipedia.org/wiki/%EA%B4%80%EC%A0%90_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
